@@ -109,6 +109,8 @@ try {
 }
 ```
 
+Alternatively you can use `nothrow()`, which will print the error but continue execution.
+
 ### `ProcessPromise`
 
 ```ts
